@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		229810AF23934BC40034BDCC /* FlagImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229810AE23934BC40034BDCC /* FlagImage.swift */; };
 		22F1331A238E510B0075DB3B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F13319238E510B0075DB3B /* AppDelegate.swift */; };
 		22F1331C238E510B0075DB3B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F1331B238E510B0075DB3B /* SceneDelegate.swift */; };
 		22F1331E238E510B0075DB3B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F1331D238E510B0075DB3B /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		229810AE23934BC40034BDCC /* FlagImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagImage.swift; sourceTree = "<group>"; };
 		22F13316238E510B0075DB3B /* GuessTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22F13319238E510B0075DB3B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22F1331B238E510B0075DB3B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				22F13319238E510B0075DB3B /* AppDelegate.swift */,
 				22F1331B238E510B0075DB3B /* SceneDelegate.swift */,
 				22F1331D238E510B0075DB3B /* ContentView.swift */,
+				229810AE23934BC40034BDCC /* FlagImage.swift */,
 				22F1331F238E510D0075DB3B /* Assets.xcassets */,
 				22F13324238E510D0075DB3B /* LaunchScreen.storyboard */,
 				22F13327238E510D0075DB3B /* Info.plist */,
@@ -149,6 +152,7 @@
 				22F1331A238E510B0075DB3B /* AppDelegate.swift in Sources */,
 				22F1331C238E510B0075DB3B /* SceneDelegate.swift in Sources */,
 				22F1331E238E510B0075DB3B /* ContentView.swift in Sources */,
+				229810AF23934BC40034BDCC /* FlagImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
